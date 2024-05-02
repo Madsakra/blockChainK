@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Madsakra/blockChainK.git/static/css/main.d34257ed.css",
+    "main.js": "/Madsakra/blockChainK.git/static/js/main.39bc0d12.js",
+    "static/js/453.53623548.chunk.js": "/Madsakra/blockChainK.git/static/js/453.53623548.chunk.js",
+    "static/media/seal.jpg": "/Madsakra/blockChainK.git/static/media/seal.2ab1e39450b03a171ad4.jpg",
+    "static/media/tankk.png": "/Madsakra/blockChainK.git/static/media/tankk.3f3475979969864436c9.png",
+    "static/media/nw.png": "/Madsakra/blockChainK.git/static/media/nw.7b555daee2e6d6ae811d.png",
+    "index.html": "/Madsakra/blockChainK.git/index.html",
+    "main.d34257ed.css.map": "/Madsakra/blockChainK.git/static/css/main.d34257ed.css.map",
+    "main.39bc0d12.js.map": "/Madsakra/blockChainK.git/static/js/main.39bc0d12.js.map",
+    "453.53623548.chunk.js.map": "/Madsakra/blockChainK.git/static/js/453.53623548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34257ed.css",
+    "static/js/main.39bc0d12.js"
+  ]
+}
